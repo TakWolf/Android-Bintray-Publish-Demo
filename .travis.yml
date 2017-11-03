@@ -16,7 +16,5 @@ cache:
 
 script:
   - chmod u+x gradlew
-  - ./gradlew clean
-  - ./gradlew build
   - chmod u+x jcenter-publish
   - ./jcenter-publish
