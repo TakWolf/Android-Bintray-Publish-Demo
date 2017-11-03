@@ -1,5 +1,8 @@
 # Android - Bintray Publish Demo #
 
+[![Build Status](https://travis-ci.org/TakWolf/Android-Bintray-Publish-Demo.svg?branch=master)](https://travis-ci.org/TakWolf/Android-Bintray-Publish-Demo)
+[![Bintray](https://api.bintray.com/packages/takwolf/maven/Android-Bintray-Publish-Demo/images/download.svg)](https://bintray.com/takwolf/maven/Android-Bintray-Publish-Demo/_latestVersion)
+
 [Bintray-Publish-Script-For-Android](https://github.com/TakWolf/Bintray-Publish-Script-For-Android) 的示例项目。
 
 ## Author ##
