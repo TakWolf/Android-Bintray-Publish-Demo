@@ -10,7 +10,7 @@ ext {
     groupId = 'com.takwolf.android.demo'
     artifactId = 'library'
 
-    libraryVersion = '0.1.0.' + new Date().format('yyyyMMddHHmmss')
+    libraryVersion = '0.1.0.' + new Date().format('yyyyMMddHHmmss', TimeZone.getTimeZone('UTC'))
     libraryName = 'Android - Bintray Publish Demo'
     libraryDescription = 'Android bintray publish demo.'
 
